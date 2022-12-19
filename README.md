@@ -1,4 +1,6 @@
-# Projet-Git
+# **Projet-Git**
+----------------------------------------------
+Espace de stockage pour tous mes travaux
 
 dans le cadre du cours :
 
